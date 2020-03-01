@@ -1,0 +1,168 @@
+body {
+    font-family: verdana, sans-serif;
+    /* background-color: rgb(104, 86, 86); */
+    margin: 0;
+ }
+
+ header {
+    background-color: rgb(168, 153, 153);
+    padding-left: 50px;
+    margin-right: auto;
+    padding-top: 20px;
+    display: flex;
+}
+
+.icon img {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: whitesmoke;
+}
+
+.coco {
+    /* background-color: rgb(172, 12, 36); */
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+}
+
+
+
+.bex {
+    /* background-color: hotpink; */
+    width: 300px;
+    display: flex;
+    align-items: center;
+    
+ }
+
+ .info {
+     /* background-color: lawngreen; */
+     font-size: 16px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     width: 900px;
+    }
+
+    
+ .meg {
+     background-color: maroon;
+     list-style: none;
+     margin-top: 20px;
+    
+}
+
+.bmx {
+    float: left;
+    border-left: 0.5px solid rgb(7, 6, 6);
+    padding: 13.5px; 
+}
+
+.main {
+   height: 1800px;
+}
+
+
+.kina {
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+.mei {
+    display: block;
+}
+
+.rei {
+    float: left;
+    /* background-color: indigo; */
+    margin-left: 30px;
+    width: 750px;
+    font-size: 15px;
+    border-left: 6px solid #25ff25;
+    border-bottom: 1px #25ff25 dotted
+}
+
+span {
+    line-height: 1.8;
+    display: block;
+    text-align: justify;
+    margin-bottom: 8px;
+}
+
+.rew {
+    background-color: rgb(247, 112, 217);
+   margin: 0 auto;
+    height: 381px;
+    text-align: center;
+}
+
+.kura {
+    margin-left: 33px;
+    float: left;
+    width: 295px;
+    font-size: 12px;
+}
+
+.kura strong {
+    padding-left: 5px;
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 8px;
+    display: block;
+    border-left: 6px solid #25ff25;
+    border-bottom: 1px #25ff25 dotted
+}
+
+.hint {
+    margin-left: 33px;
+    float: left;
+    width: 295px;
+    font-size: 12px;
+}
+
+.hint strong {
+    padding-left: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 8px;
+    display: block;
+    border-left: 6px solid #25ff25;
+    border-bottom: 1px #25ff25 dotted
+   
+}
+
+.hjk {
+    display: flex;
+}
+
+.hjk ul{
+    /* background-color: cornflowerblue; */
+    margin-left: 1100px;
+}
+   
+
+.hjk  li{
+    /* background-color: red; */
+    float: left;
+    list-style: none;
+    
+}
+
+
+
+footer p {
+    text-align: center;
+    border-top: 1px solid black;
+}
+
+footer div{
+    margin-left: 200px;
+}
+
+.qwq {
+    margin-left: 500px;
+   }
+              
+.qwq li {
+  float: left;
+  margin-left: 10px;
+  list-style: none;
+                  
+  }
